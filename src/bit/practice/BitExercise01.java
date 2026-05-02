@@ -14,5 +14,4 @@ public class BitExercise01 {
         System.out.println(Integer.toBinaryString(31)); // 1 1 1 1 1 = 16 8 4 2 1
         System.out.println(Integer.toBinaryString(32)); // 1 0 0 0 0 0 = 32 16 8 4 2 1
     }
-
 }
